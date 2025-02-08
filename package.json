@@ -1,7 +1,7 @@
 {
 	"name": "n8n-nodes-nasapics-kdq-custom",
-	"version": "1.0.0",
-	"description": "n8n node to call NASA's APOD and Mars Rover Photo services by KhanhDQ12",
+	"version": "1.0.1",
+	"description": "(declarative style) custom n8n node to call NASA's APOD and Mars Rover Photo services by KhanhDQ12",
 	"keywords": [
 		"n8n-community-node-package"
 	],
